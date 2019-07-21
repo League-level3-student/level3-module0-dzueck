@@ -1,18 +1,9 @@
 package _00_IntroToArrays;
 
-import java.util.Random;
-
-import javax.swing.JOptionPane;
-
-import org.jointheleague.graphical.robot.Robot;
 
 public class _01_RobotRace {
 	//1. make a main method
 	
-		//2. create an array of 5 robots.
-
-		//3. use a for loop to initialize the robots.
-
 			//4. make each robot start at the bottom of the screen, side by side, facing up
 	
 		//5. use another for loop to iterate through the array and make each robot move 
